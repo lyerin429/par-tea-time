@@ -599,15 +599,11 @@ input{
 
 @font-face {
     font-family: 'GENTO DREAM';
-    src: url('../fonts/G') format('truetype');
+    src: url('../fonts/GENTO\ DREAM.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Raleway';
     src: url('../fonts/Raleway-Light.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'GENTO DREAM';
-    src: url('../fonts/G') format('truetype');
 }
 @keyframes marquee {
 	0% {
