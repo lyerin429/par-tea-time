@@ -31,7 +31,7 @@ body {
 	text-transform: uppercase;
 	color: var(--color-text);
 	background-color: var(--color-bg);
-	font-family: Raleway, sans-serif;
+	font-family: "Raleway";
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -597,7 +597,18 @@ input{
 	float:right;
 }
 
-
+@font-face {
+    font-family: 'GENTO DREAM';
+    src: url('../fonts/G') format('truetype');
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GENTO DREAM';
+    src: url('../fonts/G') format('truetype');
+}
 @keyframes marquee {
 	0% {
 	  margin-left: 0%;
