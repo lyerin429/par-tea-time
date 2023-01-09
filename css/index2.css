@@ -148,6 +148,8 @@
 #contentbox4{
     width:600px;
     float:left;
+    margin-left:11.5%;
+    padding:11.5% 0;
 }
 
 #imgscroll{
@@ -157,16 +159,33 @@
     overflow:hidden;
 }
 #imgscroll img{
-    width:23%;
-    height:23%;
     float:left;
+    margin-bottom:36px;
 }
 
 #visionimg{
-    width:1550px;
-    height:720px;
+    width:78%;
+    height:65%;
     background:url(../images/vision_img.png);
     background-size: cover;
+    float:left;
+    padding:11.5%;
+    margin:0 11.5%;
+    margin-bottom: 11.5%;
+}
+
+#visionp{
+        width:764px;
+        font-size: 24px;
+        padding:36px 36px 36px 36px;
+        background:white;
+        text-align: center;
+        border: 1px solid black;
+        margin: 100px auto;
+        text-align:center;
+}
+section:last-child{
+    border-bottom: 1px solid black;
 }
 
 

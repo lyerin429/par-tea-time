@@ -1,0 +1,65 @@
+*{
+    margin: 0 auto;
+    padding:0;
+}
+
+#tea{
+    width: 1920px;
+    height: 1599px;
+    padding-top: 72px;
+    position:relative;
+}
+
+#tea_menubar{
+    position:absolute;
+    top:172px;
+    left: 185px;
+}
+
+#twinings{
+    position:absolute;
+    top:456px;
+    left: 185px;
+}
+
+#twg{
+    position:absolute;
+    top:456px;
+    left: 583px;
+}
+
+#ahmad{
+    position:absolute;
+    top:456px;
+    left: 979px;
+}
+
+#tess{
+    position:absolute;
+    top:456px;
+    left: 1376px;
+}
+
+#osulloc{
+    position:absolute;
+    top:970px;
+    left: 185px;
+}
+
+#ronnefeldt{
+    position:absolute;
+    top:970px;
+    left:583px;
+}
+
+#akbar{
+    position:absolute;
+    top:970px;
+    left:979px;
+}
+
+#dilmah{
+    position:absolute;
+    top:970px;
+    left:1376px;
+}

@@ -1,0 +1,35 @@
+main{
+    position:relative;
+}
+
+#worldwide{
+    position:absolute;
+    top:166px;
+    left: 185px;
+}
+
+#worldmap{
+    width:60%;
+    padding-top: 80px;
+    margin-top: 72px;
+    position: relative;
+    
+}
+#detail1{
+    width:360px;
+    position: absolute;
+    top: 280px;
+    left: 1293px;
+}
+#detail2{
+    width:360px;
+    position: absolute;
+    top: 620px;
+    left: 1345px;
+}
+#detail3{
+    width:360px;
+    position: absolute;
+    top: 280px;
+    left: 296px;
+}
